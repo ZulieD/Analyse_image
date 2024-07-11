@@ -12,6 +12,8 @@ The objective of this project is to develop a deep learning model that accuratel
 The dataset used in this project consists of brain MRI scans along with manually annotated masks indicating the tumor regions. 
 The dataset can be found here.
 
+https://github.com/SartajBhuvaji/Brain-Tumor-Classification-DataSet/tree/master
+
 ###### Directory Structure
 /data
   /training
