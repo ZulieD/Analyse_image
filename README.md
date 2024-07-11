@@ -14,19 +14,6 @@ The dataset can be found here.
 
 https://github.com/SartajBhuvaji/Brain-Tumor-Classification-DataSet/tree/master
 
-###### Directory Structure
-/data
-  /training
-    /glioma_tumor
-    /meningioma_tumor
-    /no_tumor
-    /pituitary_tumor
-  /testing
-    /glioma_tumor
-    /meningioma_tumor
-    /no_tumor
-    /pituitary_tumor
-
 ###### Preprocessing
 Images are resized to 256x256 pixels.
 Images are normalized to enhance model training efficiency.
