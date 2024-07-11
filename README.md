@@ -14,7 +14,7 @@ The dataset can be found here.
 
 https://github.com/SartajBhuvaji/Brain-Tumor-Classification-DataSet/tree/master
 
-###### Preprocessing
+#### Preprocessing
 Images are resized to 256x256 pixels.
 Images are normalized to enhance model training efficiency.
 Masks are generated to indicate the presence of tumors.
